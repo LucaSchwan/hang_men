@@ -1,0 +1,3 @@
+ * Hang Men
+
+   This is a CLI Hangmen game written in Go.
