@@ -1,3 +1,67 @@
 * Hang Men
 
-   This is a CLI Hangmen game written in Go.
+This is a CLI Hangmen game written in Go.
+
+** Hangmens:
+
+Hangmen art by Chris Horton from: [[https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c][hangmanwordbank.py]]
+
+#+begin_src 
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+
+#+end_src
